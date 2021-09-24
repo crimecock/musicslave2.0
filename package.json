@@ -6,7 +6,7 @@
 	"author": "MrSmooK <mrsmook.dev@gmail.com>",
 	"license": "MIT",
 	"engines": {
-		"node": "12.x.x"
+		"node": "14.x.x"
 	},
 	"scripts": {
 		"start": "node ."
