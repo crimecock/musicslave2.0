@@ -5,7 +5,9 @@
 	"main": "src/index.js",
 	"author": "MrSmooK <mrsmook.dev@gmail.com>",
 	"license": "MIT",
-	"private": true,
+	"engines": {
+		"node": "12.x.x"
+	},
 	"scripts": {
 		"start": "node ."
 	},
